@@ -1,0 +1,14 @@
+#service {
+  width: 25%;
+  text-align: center;
+}
+
+#service img {
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+}
+
+#service p {
+  text-align: justify;
+}
